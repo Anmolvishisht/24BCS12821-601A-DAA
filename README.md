@@ -1,0 +1,1 @@
+![Dry run for both problems](Dry_Run.png)
